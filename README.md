@@ -34,8 +34,8 @@
   <img width="12" />
 </div>
 
-<br/>
+<div align="center">
 <img align="left" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
-<br/>
+</div>
 
 - 📫 How to reach me **omar.alhannash@gmail.com**
