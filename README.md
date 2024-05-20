@@ -38,5 +38,5 @@
 <img alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
 </div>
 <div align="center">
- 📫 How to reach me **omar.alhannash@gmail.com
+ 📫 How to reach me omar.alhannash@gmail.com
 </div>
