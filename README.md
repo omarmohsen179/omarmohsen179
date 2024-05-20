@@ -33,7 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
 </div>
-- 📫 How to reach me **omar.alhannash@gmail.com**
-<br>
+<div align="center">
+ 📫 How to reach me **omar.alhannash@gmail.com
+</div>
+<div align="center">
 <img align="left" alt="Responsive" width="450" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" />
-<br>
+</div>
